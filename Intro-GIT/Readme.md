@@ -16,6 +16,8 @@
 - <strong>git clone </strong> (para clonar proyectos)
 - <strong>git pull origin nombre-rama</strong> (traer cambios de github)
 - <strong>git push origin -d nombre-rama</strong> (eliminar una rama de githab)
+- <strong>git reset --hard<i>id-commit</i> </strong> (devolverse a un commit en especifico). nota: se elimina el ultimo commit.
+- <strong>git reset --hard </strong> (devolverse al ultimo commit en especifico. nota: se le elimina el ultimo commit)
 
 
  ### tools
