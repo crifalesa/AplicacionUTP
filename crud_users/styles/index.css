@@ -2,8 +2,8 @@
     color:white
 }
 
-#titulo2 {
-    text-align: center;
+#titulo-formulario{
+    color:white;
 }
 
 td, th, table
@@ -26,3 +26,26 @@ table{
 #cont-btn-crearusuario {
     padding-left: 45%;
 }
+
+#cont-btn-crear {
+    padding: 20px;
+}
+
+#cont-btn-crear {
+    padding-left: 45%;
+}
+
+#section-form form {
+    max-width: 400px;
+    min-width: 200px;
+}
+
+#section-form {
+    display: flex;
+    justify-content: center;
+}   
+
+#cont-btn-crear {
+    padding-left: 25%;
+}
+
