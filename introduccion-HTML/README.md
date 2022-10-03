@@ -1,5 +1,0 @@
-### introduccion to HTML
-# EXTENSIONES
-- LIVE SEVER
-- HTML CSS SUPPORT 
-- CSS PEEK
